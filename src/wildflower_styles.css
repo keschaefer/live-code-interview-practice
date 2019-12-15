@@ -1,0 +1,31 @@
+.app {
+  font-family: "Roboto", sans-serif;
+}
+
+.main_title {
+  text-align: center;
+}
+
+.card {
+  min-height: 400px;
+  width: 300px;
+  border: 1px solid black;
+  margin: 15px;
+}
+
+.image_container {
+  display: flex;
+  justify-content: center;
+}
+
+.flower_image {
+  width: 90%;
+  height: auto;
+  padding: 10px;
+}
+
+.card_content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}

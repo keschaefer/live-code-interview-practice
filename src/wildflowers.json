@@ -1,0 +1,86 @@
+[
+  {
+    "common_name": "Blanketflower",
+    "scientific_name": "Gaillardia pinnatifida",
+    "url": "",
+    "color": "yellow",
+    "id": 1
+  },
+  {
+    "common_name": "Musk Thistle",
+    "scientific_name": "Carduus nutans",
+    "url": "",
+    "color": "purple",
+    "id": 2
+  },
+  {
+    "common_name": "Butter and Eggs",
+    "scientific_name": "Linaria vulgaris",
+    "url": "",
+    "color": "yellow",
+    "id": 3
+  },
+  {
+    "common_name": "Yellow Owl's Clover",
+    "scientific_name": "Orthocarpus luteus",
+    "url": "",
+    "color": "yellow",
+    "id": 4
+  },
+  {
+    "common_name": "Silver Lupine",
+    "scientific_name": "Lupinus argenteus",
+    "url": "",
+    "color": "purple",
+    "id": 5
+  },
+  {
+    "common_name": "Upright Blue Beardtounge",
+    "scientific_name": "Penstemon virgatus",
+    "url": "",
+    "color": "pink",
+    "id": 6
+  },
+  {
+    "common_name": "Spearleaf Stonecrop",
+    "scientific_name": "Sedum lanceolatum",
+    "url": "https://dl.dropboxusercontent.com/s/uzcvn41uipb7v8q/columbine.jpg",
+    "color": "yellow",
+    "id": 7
+  },
+  {
+    "common_name": "Western Wallflower",
+    "scientific_name": "Erysimum asperum",
+    "url": "https://dl.dropboxusercontent.com/s/nd87sc0z267i2nv/wallflower.jpg",
+    "color": "yellow",
+    "id": 8
+  },
+  {
+    "common_name": "Mariposa Lily",
+    "scientific_name": "Calochortus gunnisonii",
+    "url": "",
+    "color": "white",
+    "id": 9
+  },
+  {
+    "common_name": "Colorado Columbine",
+    "scientific_name": "Aquilegia coerulea",
+    "url": "https://dl.dropboxusercontent.com/s/uzcvn41uipb7v8q/columbine.jpg",
+    "color": "blue",
+    "id": 10
+  },
+  {
+    "common_name": "Alpine Bluebells",
+    "scientific_name": "Mertensia alpina",
+    "url": "https://dl.dropboxusercontent.com/s/79kpei1im41z9s2/blue_bells.jpg",
+    "color": "pink",
+    "id": 11
+  },
+  {
+    "common_name": "Alpine Clover",
+    "scientific_name": "Trifolium dasyphyllum",
+    "url": "https://dl.dropboxusercontent.com/s/hc4qy4167nnof9g/alpine_clover.jpg",
+    "color": "white",
+    "id": 12
+  }
+]
