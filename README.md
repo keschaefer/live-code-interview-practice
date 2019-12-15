@@ -1,4 +1,4 @@
-#React Live Code Challenge
+# React Live Code Challenge
 
 Welcome to this React live code interview practice!
 
@@ -8,7 +8,7 @@ To get started follow these steps:
 2. run `npm install` in your terminal
 3. run `npm start`, you should see the app live in your browser
 
-Now you're ready to begin coding! This excercise is designed to last for about one hour. The goal is to implement the list of challenges below within the existing framework of this code base.
+Now you're ready to begin coding! This excercise is designed to last for about one hour. The goal is to implement the list of challenges below within the existing framework of this code base. Take a look at the tasks and begin to think about how will you will implement them, don't start coding until you start working with your interviewer.
 
 1. Render an ordered list of the wildflower names
 2. Create an input field that allows the user to search the wildflowers based on common name. Your rendered list should update based on the search showing only those result that match. (case insensitive)
@@ -19,7 +19,7 @@ _Stretch_
 1. Utilize the `Header` component. Move your search input to this component, retain it's functionality.
 2. Create a dropdown menu in the header with five options Yellow, Purple, Pink, White, Blue, that when selected show only those flowers that match that color.
 
-##Tips
+## Tips
 
 Remember, for most actual live code challenges the goal is not to finish every single challenge (though that is certainly a bonus!), but to write clear, concise, well thought out code, all the while communicating to your interviewer what you are doing and why.
 
