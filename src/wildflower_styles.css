@@ -29,3 +29,15 @@
   flex-direction: column;
   padding: 10px;
 }
+
+.header_main {
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.search {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  padding-bottom: 10px;
+}

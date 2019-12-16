@@ -4,9 +4,10 @@ Welcome to this React live code interview practice!
 
 To get started follow these steps:
 
-1. fork and clone this repo to your machine
-2. run `npm install` in your terminal
-3. run `npm start`, you should see the app live in your browser
+1. Fork and clone this repo to your machine.
+2. Run `npm install` in your terminal.
+3. Run `npm start`, you should see the app live in your browser at http://localhost:3000
+4. Open this directory in your text editor of choice.
 
 Now you're ready to begin coding! This excercise is designed to last for about one hour. The goal is to implement the list of challenges below within the existing framework of this code base. Take a look at the tasks and begin to think about how will you will implement them, don't start coding until you start working with your interviewer.
 
