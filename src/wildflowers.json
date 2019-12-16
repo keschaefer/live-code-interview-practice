@@ -2,49 +2,49 @@
   {
     "common_name": "Blanketflower",
     "scientific_name": "Gaillardia pinnatifida",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/wps51emw6b074dw/blanketflower.png",
     "color": "yellow",
     "id": 1
   },
   {
     "common_name": "Musk Thistle",
     "scientific_name": "Carduus nutans",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/hgjqzbgg4r1jy2u/milk_thistle.png",
     "color": "purple",
     "id": 2
   },
   {
     "common_name": "Butter and Eggs",
     "scientific_name": "Linaria vulgaris",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/dk35bn1q1wqzili/butter_and_eggs.png",
     "color": "yellow",
     "id": 3
   },
   {
     "common_name": "Yellow Owl's Clover",
     "scientific_name": "Orthocarpus luteus",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/62ktxhztw53z6u9/owls_clover.png",
     "color": "yellow",
     "id": 4
   },
   {
     "common_name": "Silver Lupine",
     "scientific_name": "Lupinus argenteus",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/1z5tps3781hczjc/silver_lupine.png",
     "color": "purple",
     "id": 5
   },
   {
     "common_name": "Upright Blue Beardtounge",
     "scientific_name": "Penstemon virgatus",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/4mpi8n4zppjtbsk/upright_beardtounge.png",
     "color": "pink",
     "id": 6
   },
   {
     "common_name": "Spearleaf Stonecrop",
     "scientific_name": "Sedum lanceolatum",
-    "url": "https://dl.dropboxusercontent.com/s/uzcvn41uipb7v8q/columbine.jpg",
+    "url": "https://dl.dropboxusercontent.com/s/9beubrtxvz9ddou/spearleaf_stonecrop.png",
     "color": "yellow",
     "id": 7
   },
@@ -58,7 +58,7 @@
   {
     "common_name": "Mariposa Lily",
     "scientific_name": "Calochortus gunnisonii",
-    "url": "",
+    "url": "https://dl.dropboxusercontent.com/s/l7g0zyac32lfshy/mariposa_lily.png",
     "color": "white",
     "id": 9
   },
